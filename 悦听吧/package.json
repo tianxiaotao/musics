@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/frida-gum": "^18.7.1",
+    "crypto-js": "^4.2.0"
+  }
+}
